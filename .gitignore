@@ -1,0 +1,18 @@
+# Ansible
+*.retry
+*.tar.gz
+
+# Collection build output
+iamgini-automation_library-*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Molecule
+.cache/
+.tox/
+
+# OS
+.DS_Store
