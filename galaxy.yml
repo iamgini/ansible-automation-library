@@ -1,0 +1,48 @@
+---
+# Ansible Galaxy Collection Metadata
+# Ref: https://docs.ansible.com/ansible/latest/dev_guide/collections_galaxy_meta.html
+
+namespace: iamgini
+name: automation_library
+version: 0.1.0
+
+readme: README.md
+license:
+  - MIT
+
+description: >
+  Production-ready Ansible playbooks, roles, and plugins for real-world IT automation
+  use cases across Linux, cloud, VMware, Kubernetes, OpenShift, and more.
+  Free, open-source, and community-friendly.
+
+authors:
+  - Gineesh Madapparambath <https://gineesh.com>
+
+tags:
+  - linux
+  - cloud
+  - aws
+  - azure
+  - vmware
+  - kubernetes
+  - openshift
+  - ansible
+  - automation
+  - devops
+  - infrastructure
+  - security
+
+repository: https://github.com/iamgini/ansible-automation-library
+homepage: https://techbeatly.com
+documentation: https://github.com/iamgini/ansible-automation-library/tree/main/docs
+issues: https://github.com/iamgini/ansible-automation-library/issues
+
+# Minimum required versions
+requires_ansible: ">=2.14.0"
+
+# Collection dependencies (add as needed)
+dependencies: {}
+# Example:
+#   ansible.posix: ">=1.5.0"
+#   community.general: ">=7.0.0"
+#   amazon.aws: ">=6.0.0"
