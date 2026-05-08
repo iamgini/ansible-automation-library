@@ -1,4 +1,4 @@
-# ansible-automation-library
+# Ansible Automation Library
 
 > A curated library of production-ready Ansible playbooks, roles, and collections for real-world automation use cases — free and open source.
 
@@ -12,9 +12,18 @@
 
 **ansible-automation-library** is an open-source Ansible Collection covering real-world IT automation scenarios across Linux, cloud, VMware, Kubernetes, OpenShift, and more.
 
-Whether you are provisioning infrastructure, managing configurations, deploying applications, or hardening systems — this library has a playbook or role for it.
+Note: I am slowly aggregating the content from my other repositories to here.
 
----
+- [ansible-automation-library](#ansible-automation-library)
+  - [What Is This?](#what-is-this)
+  - [Install](#install)
+  - [~~What's Inside~~ What will be inside (WIP)](#whats-inside-what-will-be-inside-wip)
+  - [Usage](#usage)
+  - [Requirements](#requirements)
+  - [Contributing](#contributing)
+  - [Author](#author)
+  - [License](#license)
+
 
 ## Install
 
@@ -30,7 +39,7 @@ ansible-galaxy collection install git+https://github.com/iamgini/ansible-automat
 
 ---
 
-## What's Inside
+## ~~What's Inside~~ What will be inside (WIP)
 
 | Category | Prefix | Examples |
 |---|---|---|
